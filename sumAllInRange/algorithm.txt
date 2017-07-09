@@ -1,0 +1,13 @@
+> Find the largest number in the initial array
+  > compare the two and pick the largest
+> Store the highest number in a variable
+> Store the lowest number in another variable
+> create a variable for the current position
+  > initiate the variable to the value of the highest number
+> While the value of current is greater than or equal to lowest number
+  > add current to the next lowest number
+    > subtract one from current number to get the value to add
+    > add that value to the current number
+  > decrement current by 2
+> When the value of current is equal to or less than the lowest number
+  > return the sum
