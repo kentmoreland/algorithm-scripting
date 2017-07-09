@@ -1,17 +1,3 @@
-//create a variable sum
-//add the two numbers in the array
-//find the highest number
-  //store it in a variable
-//find the lowest number
-  //store it in a variable
-//create a variable called current
-  //initiate to the highest number
-//while the value of current is greater than or equal to the lowest number
-  //subtract 1 and add the result to the sum
-  //decrement current by 2
-//when the value of current is equal to or less than the lowest number
-  //return the sum
-
 function addNumbersFromArray(arr) {
   return arr[0] + arr[1];
 }
