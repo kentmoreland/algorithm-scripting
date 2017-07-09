@@ -1,0 +1,6 @@
+//create a results array
+//combine the two arrays
+//iterate the combo array
+  //if current doesn't have an index in both arrays
+    //add it to a results array
+//return the results array
