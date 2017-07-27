@@ -1,0 +1,22 @@
+{
+  "name": "boowho",
+  "version": "1.0.0",
+  "description": "FCC intermediate algorithm solution",
+  "main": "boo_who.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.1.0",
+    "eslint": "^4.3.0",
+    "eslint-config-google": "^0.9.1"
+  },
+  "scripts": {
+    "lint": "eslint *.js !./node_modules",
+    "test": "mocha",
+    "build": "npm run lint && npm run test"
+  },
+  "author": "Kent Moreland <kentmoreland@gmail.com>",
+  "license": "ISC"
+}
