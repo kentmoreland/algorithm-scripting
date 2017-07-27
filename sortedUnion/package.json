@@ -1,0 +1,26 @@
+{
+  "name": "sortedunion",
+  "version": "1.0.0",
+  "description": "An FCC intermediate algorithm solution",
+  "main": "sorted_union.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha",
+    "lint": "eslint *.js test/ *.js",
+    "build": "npm run test && npm run lint"
+  },
+  "keywords": [
+    "fcc",
+    "algorithm",
+    "sorted",
+    "union"
+  ],
+  "author": "Kent Moreland <kentmoreland@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.0",
+    "eslint": "^4.3.0"
+  }
+}
