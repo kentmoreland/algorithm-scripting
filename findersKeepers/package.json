@@ -1,0 +1,27 @@
+{
+  "name": "finderskeepers",
+  "version": "1.0.0",
+  "description": "Free Code Camp algorithm solution",
+  "main": "finders_keepers.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Kent Moreland <kentmoreland@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^15.0.1",
+    "eslint-loader": "^1.8.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^5.0.1",
+    "eslint-plugin-react": "^7.1.0",
+    "mocha": "^3.5.0"
+  },
+  "dependencies": {
+    "chai": "^4.1.1",
+    "eslint": "^4.5.0"
+  }
+}
