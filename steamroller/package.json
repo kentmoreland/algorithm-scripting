@@ -1,0 +1,24 @@
+{
+  "name": "steamroller",
+  "version": "1.0.0",
+  "description": "FCC intermediate algorithm solution",
+  "main": "steamroller.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Kent Moreland <kentmoreland@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.1",
+    "eslint": "^4.5.0",
+    "mocha": "^3.5.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^15.1.0",
+    "eslint-loader": "^1.8.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^5.1.1",
+    "eslint-plugin-react": "^7.3.0"
+  }
+}
